@@ -13,10 +13,10 @@ This project was done by:
 This project can be hosted in a Resort system to take in the necessary actions to **book**, **manage** or **delete** the bookings to the resorts by the customers.
 
 # Requirements:
-**xampp with** 
-- Apache web server
-- MySQL relational Database Management system
-**Knowledge in PHP, JavaScript**
+- **xampp with** 
+  - Apache web server
+  - MySQL relational Database Management system
+- **Knowledge in PHP, JavaScript**
 
 # Directions to use this Web Applicaton:
 
