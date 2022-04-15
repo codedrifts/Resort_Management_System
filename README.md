@@ -1,13 +1,13 @@
 # Resort_Management_System
-A project by CSE Branch, AMCEC
+A project by CSE Branch, AMCEC.
 This project was done by:
-[@codedrifts{Sankarshana Hooli}](https://github.com/codedrifts)
+[@codedrifts[Sankarshana Hooli]](https://github.com/codedrifts)
 
 [Shashank M](https://github.com/)
 
 [@SM-Khan[Shariq M Khan]](https://github.com/SM-Khan)
 
-[@siddharthvaishnav{Siddharth V}](https://github.com/siddharthvaishnav)
+[@siddharthvaishnav[Siddharth V]](https://github.com/siddharthvaishnav)
 
 This project can be hosted in a Resort system to take in the necessary actions to **book**, **manage** or **delete** the bookings to the resorts by the customers.
 
