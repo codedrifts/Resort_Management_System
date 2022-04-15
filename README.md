@@ -14,8 +14,8 @@ This project can be hosted in a Resort system to take in the necessary actions t
 
 - **Download xampp with Apache and MySQL**
 - **Browse to the htdocs directory in the `C:\xampp\htdocs\` or similar path in your system**
-- **Clone this Repository in the *htdocs* directory using `git clone https://github.com/codedrifts/Resort_Management_System`**
+- **Clone this Repository in the *htdocs* directory using `$git clone https://github.com/codedrifts/Resort_Management_System`**
 - **Launch xampp and *start Apache and MySQL***
-- **`Goto http://localhost/phpmyadmin/` and create new DataBase, copy from rms_db file**
-- **`Goto http://localhost/Resort_Management_System/Resort_Management_System/` this is the general webpage**
-- **`Goto http://localhost/Resort_Management_System/Resort_Management_System/admin` this is admin webpage**
+- **Goto `http://localhost/phpmyadmin/` and create new DataBase, copy from *rms_db* file**
+- **Goto `http://localhost/Resort_Management_System/Resort_Management_System/` this is the general webpage**
+- **Goto `http://localhost/Resort_Management_System/Resort_Management_System/admin` this is admin webpage**
