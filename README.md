@@ -18,7 +18,7 @@ This project can be hosted in a Resort system to take in the necessary actions t
   - MySQL relational Database Management system
 - **Knowledge in PHP, JavaScript**
 
-### Directions to use this Web Applicaton:
+## Directions to use this Web Applicaton:
 
 - **Download xampp with Apache and MySQL**
 - **Browse to the htdocs directory in the `C:\xampp\htdocs\` or similar path in your system**
